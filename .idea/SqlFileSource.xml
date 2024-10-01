@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlFileSource">
+    <option name="sources">
+      <map>
+        <entry key="$PROJECT_DIR$/sample-form/db/sample_db.sql" value="eb4c130c-00ff-4eb3-af7a-e7ac90c06bd7" />
+      </map>
+    </option>
+  </component>
+</project>

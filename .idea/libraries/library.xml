@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample-form/library/swing-glasspane-popup-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/swing-toast-notifications-1.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/swing-datetime-picker-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/miglayout-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/miglayout-swing.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

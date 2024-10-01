@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="flatlaf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample-form/library/flatlaf/flatlaf-fonts-roboto-2.137.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/flatlaf/flatlaf-extras-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/flatlaf/flatlaf-3.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sample-form/library/flatlaf/jsvg-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
